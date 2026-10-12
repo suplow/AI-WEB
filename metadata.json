@@ -1,0 +1,6 @@
+{
+  "name": "VNStock Insights - Phân Tích Chứng Khoán & Khuyên Đầu Tư AI",
+  "description": "Nền tảng phân tích mã chứng khoán thông minh: định giá cơ bản P/E, P/B, ROE, biểu đồ kỹ thuật RSI/MACD lịch sử, tin tức vĩ mô và khuyến nghị đầu tư chuẩn xác bằng AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
